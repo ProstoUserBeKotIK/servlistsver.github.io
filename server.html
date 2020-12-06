@@ -1,0 +1,22 @@
+  <table border="1" bgcolor="white" id="server_table">
+   <tr>
+    <th><font color="green">live&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;○</font></th>
+    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="green" id="live_version">0.12.20.157339</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+   </tr>
+   <tr >
+    <th><font color="blue">ptr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●</font></th>
+    <th><font color="blue" id="ptr_version">0.12.20.155905</font></th>
+   </tr>
+   <tr>
+    <th><font color="orange">staging&nbsp;●</font></th>
+    <th><font color="orange" id="staging_version">0.12.30.157838</font></th>
+   </tr>
+   <tr>
+    <th><font color="orange">futura&nbsp;&nbsp;&nbsp;●</font></th>
+    <th><font color="orange" id="futura_version">0.12.20.155798</font></th>
+   </tr>
+   <tr>
+    <th><font color="red">pr_test&nbsp;●</font></th>
+    <th><font color="red" id="pr_test_version">0.12.30.157276</font></th>
+   </tr>   
+ </table>
